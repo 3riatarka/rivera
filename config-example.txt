@@ -1,0 +1,1 @@
+com.qualcomm.timeservice frida-scripts/ssl_pinning_bypass_android_7.js
